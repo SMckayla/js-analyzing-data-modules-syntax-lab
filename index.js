@@ -1,3 +1,9 @@
+//combining users
+function combineUsers(...args){
+  let combinedObject = {users: []}
+};
+
+
 
 
 
