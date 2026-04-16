@@ -11,7 +11,10 @@ args.array.forEach(array=> {combinedObject.users.push(...arr);
   });
 
   //adding the date format
+  combinedObject.merge_date= newDate()toString('m/d/yyyy');
   
+
+
 
 
 
