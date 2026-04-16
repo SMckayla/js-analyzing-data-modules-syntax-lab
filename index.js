@@ -3,6 +3,10 @@ function combineUsers(...args){
   let combinedObject = {users: []}
 };
 
+//adding dates
+require("datejs")
+
+
 
 
 
